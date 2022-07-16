@@ -1,1 +1,1 @@
-# curso-pr-ctico-javascript
+# curso-practico-javascript
